@@ -11,10 +11,11 @@ $ go build
 **Execute**
 
 ```bash
-$ ./go-monte-carlo -occurrence <number-occ> [-v]
+$ ./go-monte-carlo -occurrence <number-occ> [-vh]
 ```
 
 *Options*
 
  * `-occurrence: The number of occurrence to perform Pi estimation`
  * `-v: Verbose flag, to see what's going on`
+ * `-h: Display help section`
